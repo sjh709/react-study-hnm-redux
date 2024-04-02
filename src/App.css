@@ -217,9 +217,8 @@ a {
   .side-search-box button {
     background-color: transparent;
     border: none;
-    font-size: 25px;
+    font-size: 15px;
     cursor: pointer;
-    width: 18%;
     color: black;
   }
 }
